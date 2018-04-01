@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#e1bee7</color>
+    <color name="colorPrimaryDark">#af8eb5</color>
+    <color name="colorAccent">#fff1ff</color>
+    <color name="containerBackground">#ffebee</color>
+    <color name="textColorPrimaryBlack">#EEEEEE</color>
+    <color name="headerTitleBackground">#f3e5f5</color>
+    <color name="mainHeaderBackground">#e1bee7</color>
+    <color name="textTypeButtonBackground">#ffc4ff</color>
+    <color name="listview_itemFirBackground">#ce93d8</color>
+    <color name="listview_itemSecBackground">#af8eb5</color>
+
+</resources>

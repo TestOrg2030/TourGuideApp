@@ -1,0 +1,585 @@
+<resources>
+    <string name="app_name">TourGuideApp</string>
+
+    <string name="welcome_Slogan_MainActivity">Welcome to Tour Guide App</string>
+    <!-- Title Header Strings of Different Activities-->
+    <string name="title_MainActivity">This Screen will show different categories which will guide you through the App.</string>
+    <string name="title_EventActivity">This Screen will show list of all the events that happen in Jalandhar City.</string>
+    <string name="title_HotelsActivity">This Screen will show list of all the Hotels available in Jalandhar City.</string>
+    <string name="title_ParksActivity">This Screen will show list of all the Parks available in Jalandhar City.</string>
+    <string name="title_ReligiousPlacesActivity">This Screen will show list of all the Religious Places in Jalandhar City.</string>
+    <string name="title_RestaurentsActivity">This Screen will show list of all the Restaurents in Jalandhar City.</string>
+    <string name="title_StadiumsActivity">This Screen will show list of all the Stadiums in Jalandhar City.</string>
+    <string name="title_DetailsActivity">This Screen will show Details of selected item.</string>
+    <!-- Default Text Strings-->
+    <string name="na_TextView_DetailsActivity">NA</string>
+    <string name="category_TextView_MainActivity">Categories</string>
+    <string name="choose_Category_TextView_MainActivity">Choose your Category</string>
+    <string name="hotels_TextView_MainActivity">Hotels</string>
+    <string name="parks_TextView_MainActivity">Parks</string>
+    <string name="religious_places_TextView_MainActivity">Religious Places</string>
+    <string name="restaurents_TextView_MainActivity">Restaurents</string>
+    <string name="stadiums_TextView_MainActivity">Stadiums</string>
+    <string name="events_TextView_MainActivity">Events</string>
+    <string name="ImageView_ContentDescription">ImageView</string>
+    <string name="TextView_DefaultText">TextView</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="cheap_hotel_tab">Cheap</string>
+    <string name="mid_hotel_tab">Mid Price</string>
+    <string name="expensive_hotel_tab">Expensive</string>
+    <string name="veg_rest_tab">Veg</string>
+    <string name="non_veg_rest_tab">Non-Veg</string>
+
+
+    <!-- Events details-->
+    <!-- Event #1 details-->
+    <string name="name_event_1">AUSTRALIA EDUCATION FAIR</string>
+    <string name="venue_event_1">Country Inn and Suites</string>
+    <string name="description_event_1">This event provide an opportunity to promote the brand through extensive publicity, create an opportunity for students to choose from different programs, provide an opportunity for students to enroll for under graduate, post graduate and research programs in USA and other countries and more etc. </string>
+    <string name="phone_event_1">0181 597 3333</string>
+    <string name="timing_event_1">11:00 AM to 4:00 PM</string>
+    <string name="date_event_1">22nd January 2018</string>
+
+    <!-- Events details-->
+    <!-- Event #2 details-->
+    <string name="name_event_2">UK EDUCATION FAIR</string>
+    <string name="venue_event_2">Hotel President</string>
+    <string name="description_event_2">This event provide an opportunity to promote the brand through extensive publicity, create an opportunity for students to choose from different programs, provide an opportunity for students to enroll for under graduate, post graduate and research programs in USA and other countries and more etc. </string>
+    <string name="phone_event_2">0181 597 7777</string>
+    <string name="timing_event_2">12:00 AM to 2:00 PM</string>
+    <string name="date_event_2">26nd January 2018</string>
+
+    <!-- Events details-->
+    <!-- Event #3 details-->
+    <string name="name_event_3">New Zealand EDUCATION FAIR</string>
+    <string name="venue_event_3">Hotel Ramada</string>
+    <string name="description_event_3">This event provide an opportunity to promote the brand through extensive publicity, create an opportunity for students to choose from different programs, provide an opportunity for students to enroll for under graduate, post graduate and research programs in USA and other countries and more etc. </string>
+    <string name="phone_event_3">0181 222 3333</string>
+    <string name="timing_event_3">01:00 PM to 4:00 PM</string>
+    <string name="date_event_3">10nd January 2018</string>
+
+    <!-- Events details-->
+    <!-- Event #4 details-->
+    <string name="name_event_4">Poland EDUCATION FAIR</string>
+    <string name="venue_event_4">Country Inn and Suites</string>
+    <string name="description_event_4">This event provide an opportunity to promote the brand through extensive publicity, create an opportunity for students to choose from different programs, provide an opportunity for students to enroll for under graduate, post graduate and research programs in USA and other countries and more etc. </string>
+    <string name="phone_event_4">0181 597 3333</string>
+    <string name="timing_event_4">02:00 PM to 05:00 PM</string>
+    <string name="date_event_4">05nd January 2018</string>
+
+    <!-- Events details-->
+    <!-- Event #5 details-->
+    <string name="name_event_5">USA EDUCATION FAIR</string>
+    <string name="venue_event_5">Hotel Sarovar Portico</string>
+    <string name="description_event_5">This event provide an opportunity to promote the brand through extensive publicity, create an opportunity for students to choose from different programs, provide an opportunity for students to enroll for under graduate, post graduate and research programs in USA and other countries and more etc. </string>
+    <string name="phone_event_5">0181 566 6666</string>
+    <string name="timing_event_5">11:30 AM to 4:00 PM</string>
+    <string name="date_event_5">31nd January 2018</string>
+
+    <!-- Hotels details-->
+    <!-- Hotel #1 details-->
+    <string name="name_hotel_1">Best Western</string>
+    <string name="address_hotel_1">GT Road , Near BSF Chowk, Jalandhar, Punjab 144001</string>
+    <string name="description_hotel_1">This modern hotel on the edge of downtown is 1.6 km from Khalsa College Halt railway station and 4.7 km from the Shri Devi Talab Mandir temple.
+Featuring free Wi-Fi, the straightforward rooms and suites also come with flat-screen TVs and minifridges. Room service is available 24x7.
+This hotel offers such amenities as a restaurant, a bar, a fitness room and a spa with Ayurvedic treatments.</string>
+    <string name="costCategory_hotel_1">Cheap</string>
+    <string name="phone_hotel_1">0181 503 2000</string>
+    <string name="stars_hotel_1">3-star hotel</string>
+    <string name="price_hotel_1">Rs.2100</string>
+
+    <!-- Hotel #2 details-->
+    <string name="name_hotel_2">Radisson Jalandhar</string>
+    <string name="address_hotel_2">BMC Chowk, GT Road, Jalandhar, Punjab 144001</string>
+    <string name="description_hotel_2">Set 2.1 km from Jalandhar City railway station, this upscale hotel in a grand, white-painted building is 3.3 km from the Devi Talab Mandir temple.
+Warm, classic rooms have dark wood furnishing and offer free Wi-Fi, flat-screen TVs and minibars, as well as tea and coffeemaking equipment. Upgraded rooms add traditional, English-style furnishings, while club rooms offer free breakfast and drinks. Suites include sitting areas. Room service is available 24x7.
+        Dining options include a casual 24-hour restaurant, a refined Asian eatery and a kebab spot, plus a sports bar and a pastry shop. There also a fitness centre, a sauna and an outdoor pool.</string>
+    <string name="costCategory_hotel_2">Expensive</string>
+    <string name="phone_hotel_2">0181 467 1234</string>
+    <string name="stars_hotel_2">5-star hotel</string>
+    <string name="price_hotel_2">Rs.6200</string>
+    <!-- Hotel #3 details-->
+    <string name="name_hotel_3">Ramada Jalandhar City Centre</string>
+    <string name="address_hotel_3">Nam Dev Chowk G.T. Road, Jalandhar, Punjab 144001</string>
+    <string name="description_hotel_3">This unassuming, city centre hotel is 2 km from Jalandhar City train station and 2.3 km from Shri Devi Talab Mandir temple.
+Featuring complimentary Wi-Fi, the relaxed rooms and suites also offer flat-screen TVs, minifridges, desks and safes. Suites add sitting areas. Room service is available, and kids age 17 and under stay free with an adult.</string>
+    <string name="costCategory_hotel_3">Expensive</string>
+    <string name="phone_hotel_3">0181 439 0000</string>
+    <string name="stars_hotel_3">5-star hotel</string>
+    <string name="price_hotel_3">Rs.5000</string>
+    <!-- Hotel #4 details-->
+    <string name="name_hotel_4">The Maya Hotel</string>
+    <string name="address_hotel_4">EH-178, Opposite District Session Court, Near BMC  Namdhari Shaheed Singh Chowk, G T Road, Civil Lines, Jalandhar, Punjab 144001</string>
+    <string name="description_hotel_4">In a glass-fronted building, this upscale hotel with a grand lobby is 1.8 km from Jalandhar City railway station and 3.1 km from Devi Talab Mandir, a Hindu temple.
+Featuring wood floors and furnishings, the laid-back rooms and suites come with free Wi-Fi, flat-screen TVs, and tea and coffeemaking facilities. Some have 4-poster beds, while suites offer living rooms.</string>
+    <string name="costCategory_hotel_4">Mid Price</string>
+    <string name="phone_hotel_4">0181 468 8700</string>
+    <string name="stars_hotel_4">4-star hotel</string>
+    <string name="price_hotel_4">Rs.3200</string>
+    <!-- Hotel #5 details-->
+    <string name="name_hotel_5">Sarovar Portico</string>
+    <string name="address_hotel_5">Near BSF Chowk, GT Road, Jalandhar, Punjab 144001</string>
+    <string name="description_hotel_5">This upscale hotel in a commercial/industrial area is 1 km from Lyallpur Khalsa College Halt Jalandhar train station and 8 km from the estimated 200-year-old Devi Talab Temple.
+The warm rooms with a polished vibe have free Wi-Fi, flat-screen TVs and minifridges, as well as tea and coffeemakers, turndown service and en suite bathrooms with glass-enclosed showers. Suites add separate living areas. Room service is offered 24x7.</string>
+    <string name="costCategory_hotel_5">Mid Price</string>
+    <string name="phone_hotel_5">0181 517 8000</string>
+    <string name="stars_hotel_5">4-star hotel</string>
+    <string name="price_hotel_5">Rs.4100</string>
+    <!-- Hotel #6 details-->
+    <string name="name_hotel_6">Hotel Dolphin</string>
+    <string name="address_hotel_6">Old GT Road, Near Patel Chowk, Jalandhar, Punjab 144004</string>
+    <string name="description_hotel_6">On the NH1A national highway in north Jalandhar, this relaxed hotel lies 2.3 km from Jalandhar City train station and 9 km from Maha Kali Mandir temple.
+With traditional wooden furnishings and tiled floors, the subdued rooms offer free Wi-Fi and flat-screen TVs, as well as tea and coffeemaking facilities. Some include minifridges, while suites add either extra bedrooms or separate living areas. Room service is available.</string>
+    <string name="costCategory_hotel_6">Cheap</string>
+    <string name="phone_hotel_6">0181 502 0444</string>
+    <string name="stars_hotel_6">3-star hotel</string>
+    <string name="price_hotel_6">Rs.1600</string>
+    <!-- Hotel #7 details-->
+    <string name="name_hotel_7">Hotel Sekhon Grand</string>
+    <string name="address_hotel_7">G.T. Near G.P.O., Bhagat Namdev Chowk, Jalandhar, Punjab 144001</string>
+    <string name="description_hotel_7">This upscale hotel in a commercial or industrial area is 1 km from Lyallpur Khalsa College Halt Jalandhar train station</string>
+    <string name="costCategory_hotel_7">Cheap</string>
+    <string name="phone_hotel_7">0181 223 1350</string>
+    <string name="stars_hotel_7">3-star hotel</string>
+    <string name="price_hotel_7">Rs.1300</string>
+    <!-- Hotel #8 details-->
+    <string name="name_hotel_8">Hotel M1</string>
+    <string name="address_hotel_8">No. 16, Police Lines Road, Jalandhar, Punjab 144001</string>
+    <string name="description_hotel_8">On the NH1A national highway in north Jalandhar</string>
+    <string name="costCategory_hotel_8">Cheap</string>
+    <string name="phone_hotel_8">0181 500 0013</string>
+    <string name="stars_hotel_8">1-star hotel</string>
+    <string name="price_hotel_8">Rs.1500</string>
+    <!-- Hotel #9 details-->
+    <string name="name_hotel_9">Hotel Ambassador</string>
+    <string name="address_hotel_9">G.T Road , Near BSF Crossing, Jalandhar, Punjab 144008</string>
+    <string name="description_hotel_9">Food Served is very Tasty</string>
+    <string name="costCategory_hotel_9">Mid Price</string>
+    <string name="phone_hotel_9">098157 61576</string>
+    <string name="stars_hotel_9">3-star hotel</string>
+    <string name="price_hotel_9">Rs.2700</string>
+    <!-- Hotel #10 details-->
+    <string name="name_hotel_10">Hotel Residency</string>
+    <string name="address_hotel_10">Near Bus Stand, Garha Rd, Jawahar Nagar, Jalandhar, Punjab 144001</string>
+    <string name="description_hotel_10">This unassuming hotel in a modern building is within 2 km of both Model Town Market and Niku Park. It is 8 km from Bath Castle.
+Straightforward rooms have TVs, minibars and Wi-Fi, as well as tea and coffeemaking facilities. Room service is available 24 hours.</string>
+    <string name="costCategory_hotel_10">Cheap</string>
+    <string name="phone_hotel_10">0181 509 5165</string>
+    <string name="stars_hotel_10">3-star hotel</string>
+    <string name="price_hotel_10">Rs.1900</string>
+
+    <!-- Hotel #11 details-->
+    <string name="name_hotel_11">Hotel Maharaja Residency</string>
+    <string name="address_hotel_11">Plot No 333 n 334 n 335, New Railway Road, Jalandhar, Punjab 144001</string>
+    <string name="description_hotel_11">A 10-minute walk from Jalandhar City train station, this low-key, city centre hotel is 1.6 km from the Shri Devi Talab Mandir temple.
+The straightforward rooms come with free Wi-Fi and flat-screen TVs, as well as tea and coffeemaking facilities, minibars and desks</string>
+    <string name="costCategory_hotel_11">Cheap</string>
+    <string name="phone_hotel_11">0181 245 3405</string>
+    <string name="stars_hotel_11">3-star hotel</string>
+    <string name="price_hotel_11">Rs.1700</string>
+    <!-- Hotel #12 details-->
+    <string name="name_hotel_12">The Regent Park Hotel</string>
+    <string name="address_hotel_12">Gujral Nagar, Jalandhar, Punjab 144002</string>
+    <string name="description_hotel_12">This polished low-rise hotel lies 3.7 km from Shri Devi Talab Mandir Hindu temple, 4.7 km from Jalandhar City railway station and 8 km from Wonderland amusement park.
+The classic, warmly decorated rooms feature free Wi-Fi, cable TV and minibars, as well as tea and coffeemaking facilities and safes</string>
+    <string name="costCategory_hotel_12">Mid Price</string>
+    <string name="phone_hotel_12">0181 504 0505</string>
+    <string name="stars_hotel_12">3-star hotel</string>
+    <string name="price_hotel_12">Rs.2300</string>
+    <!-- Hotel #13 details-->
+    <string name="name_hotel_13">Hotel President</string>
+    <string name="address_hotel_13">27, Police Line Road, Opposite Magnum Mall, Jawahar Nagar, Jalandhar, Punjab 144001</string>
+    <string name="description_hotel_13">Free Wi-Fi, Free breakfast,  Free parking ,  Laundry service , Restaurant</string>
+    <string name="costCategory_hotel_13">Mid Price</string>
+    <string name="phone_hotel_13">0181 223 9850</string>
+    <string name="stars_hotel_13">4-star hotel</string>
+    <string name="price_hotel_13">Rs.3200</string>
+    <!-- Hotel #14 details-->
+    <string name="name_hotel_14">Hotel Kings</string>
+    <string name="address_hotel_14">G.T Road, Near I.S.B.T, Jawahar Nagar, Jalandhar, Punjab 144001</string>
+    <string name="description_hotel_14">Free Wi-Fi, Free breakfast,  Free parking ,  Laundry service , Restaurant</string>
+    <string name="costCategory_hotel_14">Mid Price</string>
+    <string name="phone_hotel_14">099886 98355</string>
+    <string name="stars_hotel_14">2-star hotel</string>
+    <string name="price_hotel_14">Rs.2110</string>
+    <!-- Hotel #15 details-->
+    <string name="name_hotel_15">Hotel Kamal Palace</string>
+    <string name="address_hotel_15">EH-192, Civil Line, BMC Chowk, Jalandhar, Punjab 144001</string>
+    <string name="description_hotel_15">Free Wi-Fi, Free breakfast,  Free parking ,  Laundry service , Restaurant</string>
+    <string name="costCategory_hotel_15">Cheap</string>
+    <string name="phone_hotel_15">0181 463 3001</string>
+    <string name="stars_hotel_15">2-star hotel</string>
+    <string name="price_hotel_15">Rs.1900</string>
+    <!-- Hotel #16 details-->
+    <string name="name_hotel_16">AGI INN</string>
+    <string name="address_hotel_16">Ladowali Road, Opposite Circle Education Office, Jalandhar, Punjab 144001</string>
+    <string name="description_hotel_16">Free Wi-Fi, Free breakfast,  Free parking ,  Laundry service , Restaurant</string>
+    <string name="costCategory_hotel_16">Cheap</string>
+    <string name="phone_hotel_16">0181 503 1900</string>
+    <string name="stars_hotel_16">2-star hotel</string>
+    <string name="price_hotel_16">Rs.1800</string>
+    <!-- Hotel #17 details-->
+    <string name="name_hotel_17">Hotel Downtown</string>
+    <string name="address_hotel_17">Nakodar Road, Near Lovely Sweets, Jalandhar, Punjab 144001</string>
+    <string name="description_hotel_17">Free Wi-Fi, Free breakfast,  Free parking ,  Laundry service</string>
+    <string name="costCategory_hotel_17">Mid Price</string>
+    <string name="phone_hotel_17">0181 500 9191</string>
+    <string name="stars_hotel_17">3-star hotel</string>
+    <string name="price_hotel_17">Rs.2200</string>
+    <!-- Hotel #18 details-->
+    <string name="name_hotel_18">Country Inn and Suites By Carlson Jalandhar</string>
+    <string name="address_hotel_18">G.T. Road, Near BSF Chowk, Jalandhar, Punjab 144001</string>
+    <string name="description_hotel_18">Set off the NH1, this relaxed, modern hotel is 1.9 km from Shiv Mandir Hindu Temple and 2.5 km from Jalandhar Cant railway station.
+The polished, air-conditioned rooms offer free Wi-Fi, TVs, desks, and tea and coffeemakers. Upgraded rooms provide additional space and sofabeds, and suites have seating areas. Room service is available.</string>
+    <string name="costCategory_hotel_18">Mid Price</string>
+    <string name="phone_hotel_18">0181 503 0100</string>
+    <string name="stars_hotel_18">3-star hotel</string>
+    <string name="price_hotel_18">Rs.3400</string>
+    <!-- Hotel #19 details-->
+    <string name="name_hotel_19">Leo Fort Hotel</string>
+    <string name="address_hotel_19">G T Road, Near B.M.C Chowk, Jalandhar, 144001</string>
+    <string name="description_hotel_19">Free Wi-Fi, Free breakfast,  Free parking ,  Laundry service</string>
+    <string name="costCategory_hotel_19">Cheap</string>
+    <string name="phone_hotel_19">0181 653 5353</string>
+    <string name="stars_hotel_19">2-star hotel</string>
+    <string name="price_hotel_19">Rs.1940</string>
+    <!-- Hotel #20 details-->
+    <string name="name_hotel_20">Ramada Encore</string>
+    <string name="address_hotel_20"> 525, New Jawahar Nagar Market Rd, New Jawahar Nagar, Civil Line, Jalandhar, Punjab 144001</string>
+    <string name="description_hotel_20">Free Wi-Fi, Free breakfast,  Free parking ,  Laundry service</string>
+    <string name="costCategory_hotel_20">Expensive</string>
+    <string name="phone_hotel_20">0181 501 7272</string>
+    <string name="stars_hotel_20">4-star hotel</string>
+    <string name="price_hotel_20">Rs.4200</string>
+
+    <!-- Parks details-->
+    <!-- Parks #1 details-->
+    <string name="name_park_1">Park Cantt</string>
+    <string name="address_park_1">20, Kasturba Nagar, Jalandhar Cantt Market, Jalandhar Cantt, Jalandhar, Punjab 144005</string>
+    <string name="description_park_1">Nice and Clean Park Present in Jalandhar Cantt Area</string>
+    <string name="category_park_1">Amusement Park</string>
+    <string name="timing_park_1">All Day-Night Open</string>
+    <string name="phone_park_1">0181 555 5534</string>
+    <!-- Parks #2 details-->
+    <string name="name_park_2">Public Park - 128 Urban Estate-1</string>
+    <string name="address_park_2">Jalandhar Cantt - Jandiala Rd, Urban Estate, Phase 1, Urban Estate phase II, Jalandhar, Punjab 144022</string>
+    <string name="description_park_2">Nice and Clean Park for Children Present in Jalandhar Cantt Area</string>
+    <string name="category_park_2">Amusement Park</string>
+    <string name="timing_park_2">Open 24x7</string>
+    <string name="phone_park_2">099863 98460</string>
+    <!-- Parks #3 details-->
+    <string name="name_park_3">Surya Enclave Park（Rose Park）</string>
+    <string name="address_park_3">949 A, Surya Enclave, Jalandhar, Punjab 144001</string>
+    <string name="description_park_3">Surya Enclave park is Children Amuesment park</string>
+    <string name="category_park_3">Children Park</string>
+    <string name="timing_park_3">8AM–9:30PM</string>
+    <string name="phone_park_3">099666 98455</string>
+    <!-- Parks #4 details-->
+    <string name="name_park_4">Green Park</string>
+    <string name="address_park_4">Cool Road, Gate No 6, Opp. Bus Stand, New Jawahar Nagar, Jawahar Nagar, Jalandhar, Punjab 144009</string>
+    <string name="description_park_4">Nice and Clean park for Joggers near Cool Road Jalandhar City</string>
+    <string name="category_park_4">Joggers Park</string>
+    <string name="timing_park_4">4AM–11PM</string>
+    <string name="phone_park_4">0181 446 5534</string>
+    <!-- Parks #5 details-->
+    <string name="name_park_5">Niku Park</string>
+    <string name="address_park_5">Nikku park Rd, Model Town, Jalandhar, Punjab 144003</string>
+    <string name="description_park_5">Modest amusement park for children with rides, waterslides, concessions  play equipment.</string>
+    <string name="category_park_5">Amusement Park</string>
+    <string name="timing_park_5">3AM–7:30PM</string>
+    <string name="phone_park_5">0181 246 5234</string>
+    <!-- Parks #6 details-->
+    <string name="name_park_6">Nehru Garden</string>
+    <string name="address_park_6">Central Town, Jalandhar, Punjab 144001</string>
+    <string name="description_park_6">Park is present in Central Town market area.</string>
+    <string name="category_park_6">Joggers Park</string>
+    <string name="timing_park_6">Open 24x7</string>
+    <string name="phone_park_6">099881 98480</string>
+    <!-- Parks #7 details-->
+    <string name="name_park_7">Baltan Park</string>
+    <string name="address_park_7">Jalandhar Cantt - Jandiala Rd, Civil Line, Jalandhar, Punjab 144006</string>
+    <string name="description_park_7">Park is present in Civil Line area of Jalandhar Cantt.</string>
+    <string name="category_park_7">Joggers Park</string>
+    <string name="timing_park_7">Open 24x7</string>
+    <string name="phone_park_7">093483 92525</string>
+    <!-- Parks #8 details-->
+    <string name="name_park_8">TR Enjoy World</string>
+    <string name="address_park_8">Kangniwal, Jalandhar-Hoshiarpur Road, Jalandhar, Punjab 144001</string>
+    <string name="description_park_8">Nice water park for Children.</string>
+    <string name="category_park_8">Water Park</string>
+    <string name="timing_park_8">9:30AM–7:30PM</string>
+    <string name="phone_park_8">096463 92525</string>
+    <!-- Parks #9 details-->
+    <string name="name_park_9">Wonderland</string>
+    <string name="address_park_9">Nakodar Road, After Wadala Chowk, Jalandhar, Punjab 144001</string>
+    <string name="description_park_9">Park with family-friendly rides, including a small roller coaster, plus water slides  a wave pool.</string>
+    <string name="category_park_9">Water Park</string>
+    <string name="timing_park_9">9AM–8PM</string>
+    <string name="phone_park_9">0181 279 1886</string>
+    <!-- Parks #10 details-->
+    <string name="name_park_10">Buddha Park</string>
+    <string name="address_park_10">Near SD Model School,Jalandhar Cantt, Punjab 144001</string>
+    <string name="description_park_10">Very Neat and Clean Park Near Peer BabaLucky Shah Ji  of Jalandhar Cantt</string>
+    <string name="category_park_10">Joggers Park</string>
+    <string name="timing_park_10">5AM–8PM</string>
+    <string name="phone_park_10">0181 279 0896</string>
+
+    <!-- Religious Places details-->
+    <!-- Religious Places #1 details-->
+    <string name="name_religiousplace_1">Devi Talab Mandir</string>
+    <string name="address_religiousplace_1"> 54, Sodal Road, Preet Nagar, Shiv Nagar, Industrial Area, Jalandhar, Punjab 144004</string>
+    <string name="description_religiousplace_1">Devi Talab Mandir or Devi Talab Temple is a Hindu temple located in Jalandhar, Punjab, India. This temple is devoted to Goddess Durga and is believed to be at least 200 years old.It was founded by a retired session court judge Sh.Mohan Lal Chopr</string>
+    <string name="religion_religiousplace_1">Hinduism</string>
+    <string name="phone_religiousplace_1">0181 888 0896</string>
+    <string name="rating_religiousplace_1">*****</string>
+    <!-- Religious Places #2 details-->
+    <string name="name_religiousplace_2">Mandir Shri Siddh Baba Sodal</string>
+    <string name="address_religiousplace_2">Sodal Rd, Sodal Chowk, Shiv Nagar, Industrial Area, Jalandhar, Punjab 144004</string>
+    <string name="description_religiousplace_2">Sacred Hindu temple known for its vibrant decor  its annual Baba Sodal festival in September.</string>
+    <string name="religion_religiousplace_2">Hinduism</string>
+    <string name="phone_religiousplace_2">099991 89269</string>
+    <string name="rating_religiousplace_2">****</string>
+    <!-- Religious Places #3 details-->
+    <string name="name_religiousplace_3">St. Mary Cathedral, Jalandhar</string>
+    <string name="address_religiousplace_3">59, The Mall Road, Jalandhar Cantt., 59, The Mall Rd, Jalandhar Cantt, Jalandhar, Punjab 144005</string>
+    <string name="description_religiousplace_3">St. Mary\'s Cathedral in Jalandhar, Punjab, India, is the seat of the bishop of the Roman Catholic Diocese of Jalandhar. The cathedral is located in the Jalandhar Cantonment.</string>
+    <string name="religion_religiousplace_3">Christanity</string>
+    <string name="phone_religiousplace_3">0181 226 0675</string>
+    <string name="rating_religiousplace_3">**</string>
+    <!-- Religious Places #4 details-->
+    <string name="name_religiousplace_4">Jama Masjid, Jalandhar</string>
+    <string name="address_religiousplace_4"> Imam Nasir chowk, Near Gurd Mandi, Jalandhar, Punjab 144001</string>
+    <string name="description_religiousplace_4">Mosque</string>
+    <string name="religion_religiousplace_4">Islam</string>
+    <string name="phone_religiousplace_4">0181 228 3786</string>
+    <string name="rating_religiousplace_4">***</string>
+    <!-- Religious Places #5 details-->
+    <string name="name_religiousplace_5">Gurdwara Talhan Sahib</string>
+    <string name="address_religiousplace_5">Near Jallandhar, Talhan, Punjab 144010</string>
+    <string name="description_religiousplace_5">Talhan is famous for its Shaheedi Jor Mela which is held annually in the memory of Shaheed Baba Nihal Singh</string>
+    <string name="religion_religiousplace_5">Sikhism</string>
+    <string name="phone_religiousplace_5">0181 277 0001</string>
+    <string name="rating_religiousplace_5">**</string>
+    <!-- Religious Places #6 details-->
+    <string name="name_religiousplace_6">Gurudwara Novi Patshahi Dukh Niwaran Sahib</string>
+    <string name="address_religiousplace_6">Guru Teg Bahadur Nagar, GTB Nagar, Jalandhar, Punjab 144003</string>
+    <string name="description_religiousplace_6">Gurudwara</string>
+    <string name="religion_religiousplace_6">Sikhism</string>
+    <string name="phone_religiousplace_6">0181 462 0461</string>
+    <string name="rating_religiousplace_6">*****</string>
+    <!-- Religious Places #7 details-->
+    <string name="name_religiousplace_7">Gurudwara Shri Guru Singh Sabha</string>
+    <string name="address_religiousplace_7">Dhilwan Road, Talhan Road, Dashmesh Nagar, Sainik Vihar, Rama Mandi, Jalandhar, Punjab 144101</string>
+    <string name="description_religiousplace_7">Gurudwara</string>
+    <string name="religion_religiousplace_7">Sikhism</string>
+    <string name="phone_religiousplace_7">099771 79269</string>
+    <string name="rating_religiousplace_7">*****</string>
+    <!-- Religious Places #8 details-->
+    <string name="name_religiousplace_8">Gurudwara Shri Guru Singh Saahab</string>
+    <string name="address_religiousplace_8">Ganga Rd, Near N.C. Model School, Mohalla Number 22, Jalandhar Cantt, Jalandhar, Punjab 144005</string>
+    <string name="description_religiousplace_8">Gurudwara</string>
+    <string name="religion_religiousplace_8">Sikhism</string>
+    <string name="phone_religiousplace_8">099991 55255</string>
+    <string name="rating_religiousplace_8">***</string>
+    <!-- Religious Places #9 details-->
+    <string name="name_religiousplace_9">Station Masjid</string>
+    <string name="address_religiousplace_9">20, Kasturba Nagar, Jalandhar Cantt Market, Jalandhar Cantt, Jalandhar, Punjab 144005</string>
+    <string name="description_religiousplace_9">Mosque</string>
+    <string name="religion_religiousplace_9">Islam</string>
+    <string name="phone_religiousplace_9">092291 87769</string>
+    <string name="rating_religiousplace_9">*****</string>
+    <!-- Religious Places #10 details-->
+    <string name="name_religiousplace_10">Masjid New Railway Road</string>
+    <string name="address_religiousplace_10">New Railway Rd, Dhan Mohalla, Jalandhar, Punjab 144001</string>
+    <string name="description_religiousplace_10">Mosque</string>
+    <string name="religion_religiousplace_10">Islam</string>
+    <string name="phone_religiousplace_10">096661 89000</string>
+    <string name="rating_religiousplace_10">***</string>
+
+    <!-- Restaurents details-->
+    <!-- Restaurent #1 details-->
+    <string name="name_restaurent_1">Sagar Ratna</string>
+    <string name="address_restaurent_1">362 363 Lajpat Nagar  Jalandhar Punjab 144001</string>
+    <string name="description_restaurent_1">Vegetarian Restaurant</string>
+    <string name="foodCategory_restaurent_1">Vegetarian</string>
+    <string name="phone_restaurent_1">0181 461 0023</string>
+    <string name="timing_restaurent_1">10AM–11PM</string>
+    <!-- Restaurent #2 details-->
+    <string name="name_restaurent_2">Barbeque Nation - Model Town - Jalandhar</string>
+    <string name="address_restaurent_2">387-L, Rainbow Road, Model Town, Prakash Nagar, Jalandhar, Punjab 144003</string>
+    <string name="description_restaurent_2">Barbecue Restaurant</string>
+    <string name="foodCategory_restaurent_2">Non Vegetarian</string>
+    <string name="phone_restaurent_2">085917 06060</string>
+    <string name="timing_restaurent_2">12–3PM, 7–11PM</string>
+    <!-- Restaurent #3 details-->
+    <string name="name_restaurent_3">Aggarwal Vaishno Dhaba</string>
+    <string name="address_restaurent_3">Cool Road, Mota Singh Nagar, Jalandhar, Punjab 144001</string>
+    <string name="description_restaurent_3">Vegetarian Restaurant</string>
+    <string name="foodCategory_restaurent_3">Vegetarian</string>
+    <string name="phone_restaurent_3">085568 53838</string>
+    <string name="timing_restaurent_3">10AM–11PM</string>
+    <!-- Restaurent #4 details-->
+    <string name="name_restaurent_4">HEAT 7 RESTAURANT</string>
+    <string name="address_restaurent_4">No.569, 570, New Jawahar Nagar Market Rd, Radio Colony, New Jawahar Nagar, Jawahar Nagar, Jalandhar, Punjab 144001</string>
+    <string name="description_restaurent_4">Vegetarian Restaurant</string>
+    <string name="foodCategory_restaurent_4">Vegetarian</string>
+    <string name="phone_restaurent_4">097815 73700</string>
+    <string name="timing_restaurent_4">11AM–11PM</string>
+    <!-- Restaurent #5 details-->
+    <string name="name_restaurent_5">Central Green</string>
+    <string name="address_restaurent_5">Madan Flour Mill Chowk, Ladowali Road, Rajinder Nagar, Jalandhar, Punjab 144001</string>
+    <string name="description_restaurent_5">Fast Food Restaurant</string>
+    <string name="foodCategory_restaurent_5">Vegetarian</string>
+    <string name="phone_restaurent_5">0181 223 8434</string>
+    <string name="timing_restaurent_5">8AM–11PM</string>
+    <!-- Restaurent #6 details-->
+    <string name="name_restaurent_6">Baba chicken Jalandhar</string>
+    <string name="address_restaurent_6">399 L Near Pizza Hut delivery, Model Town, Jalandhar, Punjab 144003</string>
+    <string name="description_restaurent_6">Non Vegetarian Restaurant</string>
+    <string name="foodCategory_restaurent_6">Non Vegetarian</string>
+    <string name="phone_restaurent_6">090567 77999</string>
+    <string name="timing_restaurent_6">11:01AM–11:30PM</string>
+    <!-- Restaurent #7 details-->
+    <string name="name_restaurent_7">The Great Kabab Factory</string>
+    <string name="address_restaurent_7">Radisson Windsor Hotel, Central Town, GT Road, Jalandhar 144001</string>
+    <string name="description_restaurent_7">Non Vegetarian Restaurant</string>
+    <string name="foodCategory_restaurent_7">Non Vegetarian</string>
+    <string name="phone_restaurent_7">011 2677 9070</string>
+    <string name="timing_restaurent_7">11:01AM–11:30PM</string>
+    <!-- Restaurent #8 details-->
+    <string name="name_restaurent_8">Super Cremica Fast Food - Best Restaurant In Jalandhar</string>
+    <string name="address_restaurent_8">GT Rd, Near PNB Chowk, Central Town, Jalandhar, Punjab 144001</string>
+    <string name="description_restaurent_8">Fast Food Restaurant</string>
+    <string name="foodCategory_restaurent_8">Vegetarian</string>
+    <string name="phone_restaurent_8">099887 84084</string>
+    <string name="timing_restaurent_8">11AM–11PM</string>
+    <!-- Restaurent #9 details-->
+    <string name="name_restaurent_9">Haveli</string>
+    <string name="address_restaurent_9">Jalandhar - Phagwara Highway, GT Road, Jalandhar, Punjab 144001</string>
+    <string name="description_restaurent_9">Punjabi Restaurant</string>
+    <string name="foodCategory_restaurent_9">Vegetarian</string>
+    <string name="phone_restaurent_9">098145 99000</string>
+    <string name="timing_restaurent_9">Open 24x7</string>
+    <!-- Restaurent #10 details-->
+    <string name="name_restaurent_10">Rangla Punjab</string>
+    <string name="address_restaurent_10">Jalandhar - Phagwara Highway, Khajurla, GT Road, Next to Haveli, Jalandhar, Punjab 144001</string>
+    <string name="description_restaurent_10">Punjabi Restaurant</string>
+    <string name="foodCategory_restaurent_10">Vegetarian</string>
+    <string name="phone_restaurent_10">098145 99000</string>
+    <string name="timing_restaurent_10">12–11PM</string>
+    <!-- Restaurent #11 details-->
+    <string name="name_restaurent_11">Patwari Dhaba</string>
+    <string name="address_restaurent_11">Near Ansal Plaza, Cantt. Road, Kot Kalan, Jalandhar, Punjab 144005</string>
+    <string name="description_restaurent_11">Punjabi Restaurant</string>
+    <string name="foodCategory_restaurent_11">Vegetarian</string>
+    <string name="phone_restaurent_11">0181 263 2442</string>
+    <string name="timing_restaurent_11">9AM–11PM</string>
+    <!-- Restaurent #12 details-->
+    <string name="name_restaurent_12">McDonald India</string>
+    <string name="address_restaurent_12">Mehtab Complex, Phagwara Highway, Kotakalan, Jalandhar, Punjab 144001</string>
+    <string name="description_restaurent_12">Fast Food Restaurant</string>
+    <string name="foodCategory_restaurent_12">Vegetarian</string>
+    <string name="phone_restaurent_12">098786 22217</string>
+    <string name="timing_restaurent_12">Open 24x7</string>
+    <!-- Restaurent #13 details-->
+    <string name="name_restaurent_13">Burger King</string>
+    <string name="address_restaurent_13">Model Town, Jalandhar, Punjab</string>
+    <string name="description_restaurent_13">Fast Food Restaurant</string>
+    <string name="foodCategory_restaurent_13">Non Vegetarian</string>
+    <string name="phone_restaurent_13">0181 415 5800</string>
+    <string name="timing_restaurent_13">11AM–11PM</string>
+    <!-- Restaurent #14 details-->
+    <string name="name_restaurent_14">Subway</string>
+    <string name="address_restaurent_14">NH703, Khurla Kingra, Jalandhar, Punjab 144005</string>
+    <string name="description_restaurent_14">Fast Food Restaurant</string>
+    <string name="foodCategory_restaurent_14">Non Vegetarian</string>
+    <string name="phone_restaurent_14">098124 54250</string>
+    <string name="timing_restaurent_14">9AM–11PM</string>
+    <!-- Restaurent #15 details-->
+    <string name="name_restaurent_15">Chawlas2</string>
+    <string name="address_restaurent_15">No.112/113, Chotti Baradari Part-1, Garha Road, Near Medical College, Jalandhar, Punjab 144022</string>
+    <string name="description_restaurent_15">Chicken Restaurant</string>
+    <string name="foodCategory_restaurent_15">Non Vegetarian</string>
+    <string name="phone_restaurent_15">0181 461 8899</string>
+    <string name="timing_restaurent_15">11AM–11PM</string>
+    <!-- Restaurent #16 details-->
+    <string name="name_restaurent_16">Radhe O Radhe</string>
+    <string name="address_restaurent_16">G.T.Rd, opp Haveli, Khajurla, Jalandhar, Punjab 144005</string>
+    <string name="description_restaurent_16">Vegetarian Restaurant</string>
+    <string name="foodCategory_restaurent_16">Vegetarian</string>
+    <string name="phone_restaurent_16">099140 81104</string>
+    <string name="timing_restaurent_16">7AM–11:30PM</string>
+    <!-- Restaurent #17 details-->
+    <string name="name_restaurent_17">Rai Red Chillies</string>
+    <string name="address_restaurent_17">Old Phagwara Rd, Jalandhar Cantt, Jalandhar, Punjab 144005</string>
+    <string name="description_restaurent_17">Family Restaurant</string>
+    <string name="foodCategory_restaurent_17">Vegetarian</string>
+    <string name="phone_restaurent_17">0181 226 2179</string>
+    <string name="timing_restaurent_17">10AM–11:30PM</string>
+    <!-- Restaurent #18 details-->
+    <string name="name_restaurent_18">Vimpi</string>
+    <string name="address_restaurent_18">Opposite Desh Bhagat Yadgaar Hall, G. T. Road, Jalandhar, Punjab 144001</string>
+    <string name="description_restaurent_18">Vegetarian Restaurant</string>
+    <string name="foodCategory_restaurent_18">Vegetarian</string>
+    <string name="phone_restaurent_18">0181 224 2322</string>
+    <string name="timing_restaurent_18">11AM–10:30PM</string>
+    <!-- Restaurent #19 details-->
+    <string name="name_restaurent_19">Domino Pizza</string>
+    <string name="address_restaurent_19">Counter No. 14, Third Floor, Viva Collage Mall, G.T. Road, Khurla Kingra, Jalandhar High Way, Jalandhar, Punjab 144001</string>
+    <string name="description_restaurent_19">Pizza Restaurant</string>
+    <string name="foodCategory_restaurent_19">Vegetarian</string>
+    <string name="phone_restaurent_19">0181 263 2957</string>
+    <string name="timing_restaurent_19">11AM–11PM</string>
+    <!-- Restaurent #20 details-->
+    <string name="name_restaurent_20">Pizza Hut</string>
+    <string name="address_restaurent_20">B 9/2/250, 6A/3581, G T Road, Jalandhar, Punjab 144002</string>
+    <string name="description_restaurent_20">Pizza Restaurant</string>
+    <string name="foodCategory_restaurent_20">Vegetarian</string>
+    <string name="phone_restaurent_20">0181 222 7777</string>
+    <string name="timing_restaurent_20">11AM–11PM</string>
+
+    <!-- Stadiums details-->
+    <!-- Stadium #1 details-->
+    <string name="name_stadium_1">Guru Gobind Singh Stadium</string>
+    <string name="address_stadium_1">New Jawahar Nagar Market Road, Link Road, New Jawahar Nagar, Jawahar Nagar, Jalandhar, Punjab 144003</string>
+    <string name="description_stadium_1">Guru Gobind Singh Stadium is a multi-purpose stadium in Jalandhar, India. It is currently used for football matches and is the home stadium of JCT Mills Football Club. The stadium holds 22,000 people</string>
+    <string name="sportsCategory_stadium_1">Multi-Purpose Stadium</string>
+    <string name="timing_stadium_1">11AM–11PM</string>
+    <string name="phone_stadium_1">0181 226 7340</string>
+    <!-- Stadium #2 details-->
+    <string name="name_stadium_2">Surjit Hockey Stadium</string>
+    <string name="address_stadium_2">Bultern park, Rose Park Colony, Jalandhar, Punjab 144004</string>
+    <string name="description_stadium_2">The Surjit Hockey Stadium, also sometimes referred to as Surjeet Hockey Stadium, is a field hockey stadium in Jalandhar, Punjab, India. It is named after Jalandhar born Olympian Surjit Singh</string>
+    <string name="sportsCategory_stadium_2">Hockey Stadium</string>
+    <string name="timing_stadium_2">10AM–9PM</string>
+    <string name="phone_stadium_2">099223 92555</string>
+    <!-- Stadium #3 details-->
+    <string name="name_stadium_3">Raizada Hansraj Stadium</string>
+    <string name="address_stadium_3">Jalandhar Cantt - Jandiala Rd, Civil Line, Jalandhar, Punjab 144006</string>
+    <string name="description_stadium_3">Named After Hanraj Hans</string>
+    <string name="sportsCategory_stadium_3">Kids Stadium</string>
+    <string name="timing_stadium_3">9AM–9PM</string>
+    <string name="phone_stadium_3">0181 654 9793</string>
+    <!-- Stadium #4 details-->
+    <string name="name_stadium_4">B.S.Bedi Stadium</string>
+    <string name="address_stadium_4">Gulab Devi Road, Opposite Gulab Devi Hopsital, Bultern park, Arya Nagar, Jalandhar, Punjab 144008</string>
+    <string name="description_stadium_4">Gandhi Stadium or Burlton Park or B.S.Bedi Stadium is located in the city of Jalandhar, Punjab and is used for cricket matches. As of 19 Aug, 2017 it has hosted 1 Test and 3 ODIs</string>
+    <string name="sportsCategory_stadium_4">Cricket Stadium</string>
+    <string name="timing_stadium_4">Open 24x7</string>
+    <string name="phone_stadium_4">099843 92713</string>
+    <!-- Stadium #5 details-->
+    <string name="name_stadium_5">Lyallpur khalsa college Stadium</string>
+    <string name="address_stadium_5">Mohyal Nagar, Jalandhar, Punjab 144004</string>
+    <string name="description_stadium_5">This is a small stadium present in Lyallpur khalsa college</string>
+    <string name="sportsCategory_stadium_5">College Stadium</string>
+    <string name="timing_stadium_5">Open 24x7</string>
+    <string name="phone_stadium_5">099843 96666</string>
+
+    <!-- DetailsActivity Default texts-->
+    <string name="detailActivity_def_address_title">Address</string>
+    <string name="detailActivity_def_description_title">Description</string>
+    <string name="detailActivity_def_phone_title">Phone</string>
+    <string name="detailActivity_def_misc_title">Misc</string>
+
+</resources>

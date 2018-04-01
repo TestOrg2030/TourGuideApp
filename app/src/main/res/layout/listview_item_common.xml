@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="80dp"
+    android:layout_margin="2dp"
+    android:background="@color/listview_itemFirBackground"
+    android:contentDescription="@string/ImageView_ContentDescription"
+    android:padding="4dp">
+
+    <ImageView
+        android:id="@+id/desc_ImageView"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:contentDescription="@string/ImageView_ContentDescription"
+        android:src="@drawable/ic_launcher_background" />
+
+    <TextView
+        android:id="@+id/name_TextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toEndOf="@id/desc_ImageView"
+        android:layout_toLeftOf="@id/arrow_ImageView"
+        android:layout_toRightOf="@id/desc_ImageView"
+        android:layout_toStartOf="@id/arrow_ImageView"
+        android:gravity="bottom"
+        android:paddingLeft="8dp"
+        android:paddingRight="8dp"
+        android:text="@string/TextView_DefaultText"
+        android:textColor="@android:color/white"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/category_TextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginEnd="64dp"
+        android:layout_marginRight="64dp"
+        android:background="@color/listview_itemSecBackground"
+        android:padding="4dp"
+        android:text="@string/TextView_DefaultText"
+        android:textColor="@android:color/white"
+        android:textSize="16sp"
+        android:textStyle="bold|italic" />
+
+    <ImageView
+        android:id="@+id/arrow_ImageView"
+        android:layout_width="28dp"
+        android:layout_height="28dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:contentDescription="@string/ImageView_ContentDescription"
+        android:src="@android:drawable/ic_media_play" />
+
+</RelativeLayout>

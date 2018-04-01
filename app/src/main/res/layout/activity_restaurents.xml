@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.riturajsingh.tourguideapp.RestaurentsActivity">
+
+    <TextView
+        android:id="@+id/restaurentsActivity_Title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/headerTitleBackground"
+        android:padding="8dp"
+        android:text="@string/title_RestaurentsActivity"
+        android:textSize="16sp"
+        android:textStyle="bold|italic" />
+
+    <LinearLayout
+        android:id="@+id/restaurents_Container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/containerBackground"
+        android:orientation="vertical">
+
+        <android.support.design.widget.TabLayout
+            android:id="@+id/rest_tabs_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:tabSelectedTextColor="@android:color/holo_purple"
+            app:tabTextColor="@android:color/black" />
+        <!--This XML element will be inflated later on using java code-->
+        <android.support.v4.view.ViewPager
+            android:id="@+id/rest_viewpager"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"></android.support.v4.view.ViewPager>
+    </LinearLayout>
+</LinearLayout>
